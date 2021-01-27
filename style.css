@@ -1,0 +1,14 @@
+body {
+    background-color: cadetblue;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+h1 {
+    font-size: 50px;
+    color: cornsilk;
+}
+
+p {
+    font-size: 22px;
+}
